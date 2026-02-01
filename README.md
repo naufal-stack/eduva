@@ -1,11 +1,1 @@
-### 👋 Hai!
-
-Siap bikin codingan 💻✨
-
-Tapi aku perlu **1 info singkat** dulu:
-
-- 🔧 **Bahasa apa?** (JavaScript, PHP, Python, Dart/Flutter, Java, dll)
-- 🎯 **Tujuannya apa?** (web, mobile, API, automation, AI, dsb)
-- 📦 **Contoh kasusnya?** (login, CRUD, upload file, chatbot, dll)
-
-Tinggal jawab singkat, nanti langsung aku bikinin kodenya 🚀
+### 🌐 HTML Sederhana\n\nBerikut contoh **codingan HTML paling sederhana** 👇\n\n```html\n<!DOCTYPE html>\n<html lang=\"id\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>HTML Sederhana</title>\n  <style>\n    body {\n      font-family: Arial, sans-serif;\n      background-color: #f4f4f4;\n      text-align: center;\n      padding-top: 50px;\n    }\n    h1 {\n      color: #333;\n    }\n    p {\n      color: #666;\n    }\n    button {\n      padding: 10px 20px;\n      border: none;\n      background: #4CAF50;\n      color: white;\n      cursor: pointer;\n      border-radius: 5px;\n    }\n    button:hover {\n      background: #45a049;\n    }\n  </style>\n</head>\n<body>\n\n  <h1>Halo Dunia 👋</h1>\n  <p>Ini adalah contoh HTML sederhana</p>\n  <button onclick=\"alert('Halo!')\">Klik Aku</button>\n\n</body>\n</html>\n```\n\n📌 **Cara pakai:**\n1. Simpan sebagai `index.html`\n2. Buka dengan browser (Chrome / Edge / Firefox)\n\nKalau mau versi **tanpa CSS**, **pakai form**, atau **ada JavaScript lebih banyak**, bilang aja 😄🚀
