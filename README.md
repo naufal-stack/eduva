@@ -1,1 +1,11 @@
-### 👋 Hai!\n\nSiap bikin codingan 💻✨\n\nTapi aku perlu **1 info singkat** dulu:\n\n- 🔧 **Bahasa apa?** (JavaScript, PHP, Python, Dart/Flutter, Java, dll)\n- 🎯 **Tujuannya apa?** (web, mobile, API, automation, AI, dsb)\n- 📦 **Contoh kasusnya?** (login, CRUD, upload file, chatbot, dll)\n\nTinggal jawab singkat, nanti langsung aku bikinin kodenya 🚀
+### 👋 Hai!
+
+Siap bikin codingan 💻✨
+
+Tapi aku perlu **1 info singkat** dulu:
+
+- 🔧 **Bahasa apa?** (JavaScript, PHP, Python, Dart/Flutter, Java, dll)
+- 🎯 **Tujuannya apa?** (web, mobile, API, automation, AI, dsb)
+- 📦 **Contoh kasusnya?** (login, CRUD, upload file, chatbot, dll)
+
+Tinggal jawab singkat, nanti langsung aku bikinin kodenya 🚀
