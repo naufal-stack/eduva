@@ -1,1 +1,1 @@
-# eduva
+### 👋 Hai!\n\nAku **ChatGPT** 🤖✨\n\nAsisten AI yang dibuat buat bantu kamu:\n- jawab pertanyaan\n- diskusi santai atau serius\n- bantu nulis, ngoding, bikin prompt, dll\n\nAku bukan manusia, tapi selalu siap nemenin ngobrol kapan aja 😄\n\nKalau kamu mau, kita lanjut bahas apa?
